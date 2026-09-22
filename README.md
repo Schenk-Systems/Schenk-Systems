@@ -5,18 +5,19 @@
   <p><strong>Nils Schenk</strong> · Gründer &amp; Entwickler bei Schenk-Systems</p>
 
   <p>
-    Wir verbinden Ihre Systeme und automatisieren wiederkehrende Arbeitsschritte<br />
-    mit n8n und Zapier - und entwickeln individuelle Software, wenn Standardtools nicht ausreichen.
-  </p>
-
-  <p>
     <a href="https://schenk-systems.de">🌐&nbsp;Website</a>
     &nbsp;·&nbsp;
     <a href="mailto:info@schenk-systems.de">✉️&nbsp;Kontakt</a>
+    &nbsp;·&nbsp;
+    <a href="#english">🇬🇧&nbsp;English</a>
   </p>
 </div>
 
 <br />
+
+## 🇩🇪 Deutsch
+
+Wir verbinden Ihre Systeme und automatisieren wiederkehrende Arbeitsschritte mit n8n und Zapier - und entwickeln individuelle Software, wenn Standardtools nicht ausreichen.
 
 ### Was wir bauen
 
@@ -29,7 +30,24 @@
 
 <br />
 
-### Tech, mit dem wir arbeiten
+## 🇬🇧 English
+
+<a name="english"></a>
+
+We connect your systems and automate repetitive tasks with n8n and Zapier - and build custom software when off-the-shelf tools aren't enough.
+
+### What we build
+
+- 🔁 **n8n automation** - custom workflows, self-hosted or in the cloud
+- ⚡ **Zapier automation** - fast integration of the tools you already use
+- 🧭 **Process automation** - analysis of existing processes and real automation potential
+- 🔌 **System integration** - CRM, email, databases, forms, Slack, Notion, Google Workspace
+- 🤖 **AI automation** - AI-assisted steps integrated into existing workflows
+- 💻 **Custom software** - when n8n or Zapier aren't enough, we build tailored solutions
+
+<br />
+
+### Tech we work with
 
 <p>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
@@ -42,5 +60,5 @@
 <br />
 
 <div align="center">
-  <sub>📍 Wallenhorst, Deutschland</sub>
+  <sub>📍 Wallenhorst, Germany</sub>
 </div>
