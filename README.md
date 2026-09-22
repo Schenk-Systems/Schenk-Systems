@@ -20,12 +20,12 @@
 
 ### Was wir bauen
 
-- 🔁 **n8n-Automatisierung** — individuelle Workflows, selbst gehostet oder in der Cloud
-- ⚡ **Zapier-Automatisierung** — schnelle Integration bestehender Tools ohne großen Aufwand
-- 🧭 **Prozessautomatisierung** — Analyse bestehender Prozesse und echtes Automatisierungspotenzial
-- 🔌 **Systemintegration** — CRM, E-Mail, Datenbanken, Formulare, Slack, Notion, Google Workspace
-- 🤖 **KI-Automatisierung** — KI-gestützte Schritte gezielt in bestehende Workflows integriert
-- 💻 **Individuelle Software** — wenn n8n oder Zapier nicht reichen, entwickeln wir maßgeschneiderte Lösungen
+- 🔁 **n8n-Automatisierung** - individuelle Workflows, selbst gehostet oder in der Cloud
+- ⚡ **Zapier-Automatisierung** - schnelle Integration bestehender Tools ohne großen Aufwand
+- 🧭 **Prozessautomatisierung** - Analyse bestehender Prozesse und echtes Automatisierungspotenzial
+- 🔌 **Systemintegration** - CRM, E-Mail, Datenbanken, Formulare, Slack, Notion, Google Workspace
+- 🤖 **KI-Automatisierung** - KI-gestützte Schritte gezielt in bestehende Workflows integriert
+- 💻 **Individuelle Software** - wenn n8n oder Zapier nicht reichen, entwickeln wir maßgeschneiderte Lösungen
 
 <br />
 
