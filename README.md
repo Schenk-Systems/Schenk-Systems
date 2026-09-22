@@ -5,7 +5,7 @@
 
   <p>
     Wir verbinden Ihre Systeme und automatisieren wiederkehrende Arbeitsschritte<br />
-    mit n8n und Zapier — und entwickeln individuelle Software, wenn Standardtools nicht ausreichen.
+    mit n8n und Zapier - und entwickeln individuelle Software, wenn Standardtools nicht ausreichen.
   </p>
 
   <p>
@@ -19,12 +19,12 @@
 
 ### Was wir bauen
 
-- 🔁 **n8n-Automatisierung** — individuelle Workflows, selbst gehostet oder in der Cloud
-- ⚡ **Zapier-Automatisierung** — schnelle Integration bestehender Tools ohne großen Aufwand
-- 🧭 **Prozessautomatisierung** — Analyse bestehender Prozesse und echtes Automatisierungspotenzial
-- 🔌 **Systemintegration** — CRM, E-Mail, Datenbanken, Formulare, Slack, Notion, Google Workspace
-- 🤖 **KI-Automatisierung** — KI-gestützte Schritte gezielt in bestehende Workflows integriert
-- 💻 **Individuelle Software** — wenn n8n oder Zapier nicht reichen, entwickeln wir maßgeschneiderte Lösungen
+- 🔁 **n8n-Automatisierung** - individuelle Workflows, selbst gehostet oder in der Cloud
+- ⚡ **Zapier-Automatisierung** - schnelle Integration bestehender Tools ohne großen Aufwand
+- 🧭 **Prozessautomatisierung** - Analyse bestehender Prozesse und echtes Automatisierungspotenzial
+- 🔌 **Systemintegration** - CRM, E-Mail, Datenbanken, Formulare, Slack, Notion, Google Workspace
+- 🤖 **KI-Automatisierung** - KI-gestützte Schritte gezielt in bestehende Workflows integriert
+- 💻 **Individuelle Software** - wenn n8n oder Zapier nicht reichen, entwickeln wir maßgeschneiderte Lösungen
 
 <br />
 
@@ -41,5 +41,5 @@
 <br />
 
 <div align="center">
-  <sub>📍 Wallenhorst, Deutschland — Nils Schenk</sub>
+  <sub>📍 Wallenhorst, Deutschland - Nils Schenk</sub>
 </div>
