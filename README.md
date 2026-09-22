@@ -6,7 +6,7 @@
 
   <p>
     Wir verbinden Ihre Systeme und automatisieren wiederkehrende Arbeitsschritte<br />
-    mit n8n und Zapier — und entwickeln individuelle Software, wenn Standardtools nicht ausreichen.
+    mit n8n und Zapier - und entwickeln individuelle Software, wenn Standardtools nicht ausreichen.
   </p>
 
   <p>
